@@ -3,7 +3,7 @@ Hi, I’m Joana
 - I’m currently finishing my bachelors in Computer Science and Engineering in Iscte-iul.
 - I’m looking to collaborate on website development and software engineering.
 - If you wish to contact me please email me on jsmva03@gmail.com .
-- My pronouns are she/her.
+- she/her.
 - Fun facts: I have a really big interest in dermatology, music, design and videogames.
 
 <!---
